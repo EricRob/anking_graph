@@ -4,4 +4,4 @@ Create a network graph of the AnKing deck based on user-created tags. Intent was
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/12261655/154917737-61481053-c3c0-413e-836c-334b185e136f.png">
 
-But I dropped the project because I was about to take Step 1 and never wanted to see Anki or Anking ever again.
+The graph works, but I dropped the project and never made it pretty because I was about to take Step 1 and never wanted to see Anki or Anking ever again.
