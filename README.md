@@ -1,6 +1,6 @@
 # anking_graph
 
-Create a network graph of the AnKing deck based on user-created tags. Intent was to observe clusters of content and make a study plan:
+Create a network graph of the AnKing deck based on user-created tags. Lots of interesting clusters, but it's pretty crowded. Used a spring layout, could work better with a different format:
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/12261655/154917737-61481053-c3c0-413e-836c-334b185e136f.png">
 
