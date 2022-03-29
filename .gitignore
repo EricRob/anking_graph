@@ -1,3 +1,8 @@
+test_deck
+*.txt
+*.apkg
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
